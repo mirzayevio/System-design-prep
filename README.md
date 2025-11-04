@@ -18,7 +18,9 @@ Understand how data moves: requests, responses, latency, and throughput.
 **Core knowledge:** TCP/IP, DNS, HTTP/HTTPS, and how latency affects performance.
 
 **🔗 Resources:**  
-- [ ] Add link here
+- [ What happens when you type a URL in your browser? ] (https://www.youtube.com/watch?v=4lb3dAtKcJo)
+- [ What exactly is the HTTP protocol? ] (https://www.youtube.com/watch?v=SzwjnoPI--M)
+- [ HTTPS, SSL, TLS & Certificate Authority Explained ] (https://www.youtube.com/watch?v=EnY6fSng3Ew)
 
 ---
 
